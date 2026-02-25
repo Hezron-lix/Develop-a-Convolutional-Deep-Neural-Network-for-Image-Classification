@@ -198,18 +198,22 @@ predict_image(model, image_index=80, dataset=test_dataset)
 
 ## Training Loss per Epoch
 
-![alt text](image.png)
+<img width="598" height="222" alt="image" src="https://github.com/user-attachments/assets/efdcf569-fcdc-4a47-b5b4-2a1b3ed0b9c8" />
+
 
 ## Confusion Matrix
 
-![alt text](image-1.png)
+<img width="1040" height="714" alt="image" src="https://github.com/user-attachments/assets/1e480367-1886-4a09-affa-922f0b8f57ef" />
+
 
 ## Classification Report
 
-![alt text](image-2.png)
+<img width="823" height="388" alt="image" src="https://github.com/user-attachments/assets/1a2f9fd1-356b-49a8-8e63-464a1563f094" />
+
 
 ### New Sample Data Prediction
-![alt text](image-3.png)
+<img width="773" height="611" alt="image" src="https://github.com/user-attachments/assets/ff63e1ff-0264-4831-8bd9-0489e10816a2" />
+
 
 ## RESULT
 Thus, To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images is executed and verified successfully.
